@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5ECCF6CB1DC506D20055499E"
+               BlueprintIdentifier = "C55A8F721DC5250F0062B7B9"
                BuildableName = "UCLAPath.app"
                BlueprintName = "UCLAPath"
                ReferencedContainer = "container:UCLAPath.xcodeproj">
@@ -28,31 +28,11 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5ECCF6DF1DC506D30055499E"
-               BuildableName = "UCLAPathTests.xctest"
-               BlueprintName = "UCLAPathTests"
-               ReferencedContainer = "container:UCLAPath.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5ECCF6EA1DC506D30055499E"
-               BuildableName = "UCLAPathUITests.xctest"
-               BlueprintName = "UCLAPathUITests"
-               ReferencedContainer = "container:UCLAPath.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5ECCF6CB1DC506D20055499E"
+            BlueprintIdentifier = "C55A8F721DC5250F0062B7B9"
             BuildableName = "UCLAPath.app"
             BlueprintName = "UCLAPath"
             ReferencedContainer = "container:UCLAPath.xcodeproj">
@@ -75,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5ECCF6CB1DC506D20055499E"
+            BlueprintIdentifier = "C55A8F721DC5250F0062B7B9"
             BuildableName = "UCLAPath.app"
             BlueprintName = "UCLAPath"
             ReferencedContainer = "container:UCLAPath.xcodeproj">
@@ -94,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5ECCF6CB1DC506D20055499E"
+            BlueprintIdentifier = "C55A8F721DC5250F0062B7B9"
             BuildableName = "UCLAPath.app"
             BlueprintName = "UCLAPath"
             ReferencedContainer = "container:UCLAPath.xcodeproj">
